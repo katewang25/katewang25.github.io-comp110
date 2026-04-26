@@ -16,6 +16,7 @@ layout: default
 
 **Goal**: Determine to what extent COMP110 students would benefit from major-specific focus track courses.
 
+**Project Members:** Claire Kwark & Katelyn Wang
 ______________________________
 ## Analysis
 ### 1. Computer Science (CS) Majors/Minors vs Non-CS Majors/Minors:
