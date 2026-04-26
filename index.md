@@ -2,7 +2,7 @@
 # Do not edit the text between these lines!
 layout: default
 ---
-<img src="static\imgs\logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="static\imgs\logo.png" alt="Image of Comp110 rainbow logo. "  width="70"/>
 
 # COMP 110 EX 09 SITE
 
@@ -33,7 +33,7 @@ Non-CS student majors and student scores about anticipated course valuability in
 
 
 
-### Conclusion:
+## Conclusion:
 **Rationale**: As non-CS majors in COMP 110, we were interested in the experiences of other non-majors in this course. Though this course is designed to be a broad introduction to computer programming, we wondered whether there was demand for more content relevant to specific majors.
 
 We believe it may be beneficial to offer specialized focus tracks to make the applicability of these skills in non-CS fields more explicit. This would show students programming skills that are useful to their majors.
